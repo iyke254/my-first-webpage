@@ -1,0 +1,21 @@
+h1 {
+  color: #f4426e;
+  font-size: 50px;
+  text-align: center;
+  font-style: oblique;
+  font-family: sans-serif;
+  line-height: 5px;
+  font-weight: bolder;
+}
+p {
+  color: #42d4f4;
+  font-style: italic;
+  font-family: monospace;
+  font-size: 24px;
+
+}
+li {
+  color: #f4eb42;
+  font-size: 20px;
+  font-weight: bolder;
+}
